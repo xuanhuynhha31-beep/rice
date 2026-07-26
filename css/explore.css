@@ -972,7 +972,7 @@ EXPERIENCE
 
 /*====================================================
 
-QUOTE
+TE
 
 ====================================================*/
 
@@ -1040,7 +1040,7 @@ QUOTE
 
     font-family: "Playfair Display", serif;
 
-    font-size: clamp(2rem,4vw,3rem);
+    font-size: clamp(2rem,4vw,2rem);
 
     line-height: 1.7;
 
@@ -1108,7 +1108,7 @@ QUOTE
 
 .quote-content p{
 
-    font-size:42px;
+    font-size:38px;
 
     line-height:1.5;
 

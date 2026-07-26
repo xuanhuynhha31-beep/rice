@@ -1,5 +1,5 @@
 /* ==========================================
-   GOOGLE FONT
+   GOOGLE FON
 ========================================== */
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap');
@@ -134,7 +134,7 @@ color:var(--primary);
 
 border-radius:50px;
 
-font-size:.8rem;
+font-size:1rem;
 
 font-weight:600;
 
@@ -148,7 +148,7 @@ margin-bottom:20px;
 
 font-family:'Playfair Display',serif;
 
-font-size:3rem;
+font-size:2.5rem;
 
 color:var(--title);
 
@@ -705,7 +705,7 @@ letter-spacing:1px;
 
 font-family:'Playfair Display',serif;
 
-font-size:3rem;
+font-size:2rem;
 
 margin:20px 0;
 
@@ -1548,7 +1548,7 @@ margin-bottom:20px;
 
 font-family:'Playfair Display',serif;
 
-font-size:3rem;
+font-size:2.5rem;
 
 margin-bottom:20px;
 
